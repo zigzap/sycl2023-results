@@ -43,7 +43,7 @@
         devShells.default = pkgs.mkShell {
           nativeBuildInputs = with pkgs; [
             # neovim-nightly-pkgs.neovim
-            zigpkgs.master
+            zigpkgs."0.11.0"
             # bat
             # wrk
           ];

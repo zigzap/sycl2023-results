@@ -6,7 +6,7 @@ conference in Vancouver, in June 2023.
 
 If you serve the checked out directory, it will show you the results.
 
-In case you don't have a webserver handy, grab yourself a [zig master
+In case you don't have a webserver handy, grab yourself a [zig 0.11.0
 build](https://ziglang.org/download) and run:
 
 ```shell
